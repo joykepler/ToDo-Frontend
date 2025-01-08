@@ -45,7 +45,6 @@ https://github.com/joykepler/ToDo-Backend
 - Criar, editar e excluir tarefas
 - Marcar tarefas como concluídas
 - Adicionar descrições às tarefas
-- Categorizar tarefas
 - Definir prioridades
 - Visualizar status das tarefas
 
