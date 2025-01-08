@@ -55,9 +55,10 @@ A aplicação permite exportar todas as tarefas para um arquivo PDF organizado.
 
 Como testar:
 
-Adicione algumas tarefas à lista
-Clique no botão "Exportar PDF" localizado no topo da lista
-Um arquivo PDF será gerado e baixado automaticamente
+- Adicione algumas tarefas à lista
+- Clique no botão "Exportar PDF" localizado no topo da lista
+- Um arquivo PDF será gerado e baixado automaticamente
+- 
 O PDF incluirá:
 
 - Título da tarefa
