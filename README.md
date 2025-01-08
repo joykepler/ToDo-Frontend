@@ -50,7 +50,7 @@ https://github.com/joykepler/ToDo-Backend
 - Visualizar status das tarefas
 
 ## Funcionalidades Extras
-📄 Exportação para PDF
+##📄 Exportação para PDF
 A aplicação permite exportar todas as tarefas para um arquivo PDF organizado.
 
 Como testar:
@@ -60,12 +60,12 @@ Clique no botão "Exportar PDF" localizado no topo da lista
 Um arquivo PDF será gerado e baixado automaticamente
 O PDF incluirá:
 
-Título da tarefa
-Descrição
-Status
-Prioridade
-Categoria
-Estado de conclusão
+- Título da tarefa
+- Descrição
+- Status
+- Prioridade
+- Categoria
+- Estado de conclusão
 
 ## 🎯 Como Usar
 Acesse a aplicação através do navegador: http://localhost:5173
