@@ -38,7 +38,7 @@ npm run dev
 ## 🔗 Repositório Backend
 https://github.com/joykepler/ToDo-Backend
 
-## Funcionalidades
+## 💡 Funcionalidades
 
 ## Funcionalidades Principais
 
