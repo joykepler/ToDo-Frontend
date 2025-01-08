@@ -76,7 +76,6 @@ Digite o título no campo de entrada
 
 Pressione Enter ou clique no botão de adicionar
 
-
 -Para editar uma tarefa:
 
 Clique no ícone de edição
@@ -84,7 +83,6 @@ Clique no ícone de edição
 Faça as alterações necessárias
 
 Salve as mudanças
-
 
 -Para marcar como concluída:
 
