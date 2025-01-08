@@ -27,11 +27,7 @@ cd ToDo-Frontend
 yarn install
 ```
 
-3. Configure o arquivo .env
-
-VITE_API_URL=http://localhost:8000/api
-
-4. Inicie o servidor de desenvolvimento
+3. Inicie o servidor de desenvolvimento
 ```bash
 yarn dev
 ```
