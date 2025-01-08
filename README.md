@@ -50,7 +50,7 @@ https://github.com/joykepler/ToDo-Backend
 - Visualizar status das tarefas
 
 ## Funcionalidades Extras
-##📄 Exportação para PDF
+## 📄 Exportação para PDF
 A aplicação permite exportar todas as tarefas para um arquivo PDF organizado.
 
 Como testar:
