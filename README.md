@@ -58,7 +58,7 @@ Como testar:
 - Adicione algumas tarefas à lista
 - Clique no botão "Exportar PDF" localizado no topo da lista
 - Um arquivo PDF será gerado e baixado automaticamente
-- 
+  
 O PDF incluirá:
 
 - Título da tarefa
