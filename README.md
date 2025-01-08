@@ -71,16 +71,21 @@ O PDF incluirá:
 Acesse a aplicação através do navegador: http://localhost:5173
 
 -Para adicionar uma nova tarefa:
+
 Digite o título no campo de entrada
 
 Pressione Enter ou clique no botão de adicionar
 
+
 -Para editar uma tarefa:
+
 Clique no ícone de edição
 
 Faça as alterações necessárias
 
 Salve as mudanças
 
+
 -Para marcar como concluída:
+
 Clique no checkbox ao lado da tarefa
