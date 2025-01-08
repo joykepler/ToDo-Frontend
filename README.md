@@ -12,6 +12,7 @@ Frontend da aplicação ToDo List desenvolvida com Vue.js 3 e Quasar Framework. 
 
 ## ⚙️ Requisitos
 - Node.js (v14 ou superior)
+- Yarn package manager
 - Backend configurado e rodando
 
 ## 🚀 Instalação e Configuração
