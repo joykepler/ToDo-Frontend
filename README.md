@@ -21,16 +21,16 @@ Frontend da aplicação ToDo List desenvolvida com Vue.js 3 e Quasar Framework. 
 git clone https://github.com/joykepler/ToDo-Frontend.git
 cd ToDo-Frontend
 ```
-2.Instale as dependências
+2. Instale as dependências
 ```bash
 npm install
 ```
 
-3.Configure o arquivo .env
+3. Configure o arquivo .env
 
 VITE_API_URL=http://localhost:8000/api
 
-4.Inicie o servidor de desenvolvimento
+4. Inicie o servidor de desenvolvimento
 ```bash
 npm run dev
 ```
