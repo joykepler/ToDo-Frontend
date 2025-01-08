@@ -55,19 +55,16 @@ A aplicação permite exportar todas as tarefas para um arquivo PDF organizado.
 Como testar:
 
 - Adicione algumas tarefas à lista
-- Clique no botão "Exportar PDF" localizado no topo da lista
+- Clique no botão "Exportar PDF" localizado embaixo da lista
 - Um arquivo PDF será gerado e baixado automaticamente
   
 O PDF incluirá:
 
 - Título da tarefa
-- Descrição
 - Status
 - Prioridade
-- Categoria
-- Estado de conclusão
 
-## 🎯 Como Usar
+## 🎯 Como Usar o ToDo LIST!
 Acesse a aplicação através do navegador: http://localhost:5173
 
 - Para adicionar uma nova tarefa:
