@@ -23,7 +23,7 @@ cd ToDo-Frontend
 ```
 2. Instale as dependências
 ```bash
-npm install
+yarn install
 ```
 
 3. Configure o arquivo .env
@@ -32,7 +32,7 @@ VITE_API_URL=http://localhost:8000/api
 
 4. Inicie o servidor de desenvolvimento
 ```bash
-npm run dev
+yarn dev
 ```
 
 ## 🔗 Repositório Backend
