@@ -1,40 +1,34 @@
-# todo-frontend (todo-frontend)
+# ToDo List Application (Frontend)
 
-A Quasar Project
+## 📝 Descrição
+Frontend da aplicação ToDo List desenvolvida com Vue.js 3 e Quasar Framework. Este é o cliente que consome a API do [backend](https://github.com/joykepler/ToDo-Backend).
 
-## Install the dependencies
+## 🛠️ Tecnologias
+- Vue.js 3 (Composition API)
+- Quasar Framework v2.x
+- TypeScript
+- Axios
+- jsPDF
+
+## ⚙️ Requisitos
+- Node.js (v14 ou superior)
+- Backend configurado e rodando
+
+## 🚀 Instalação e Configuração
+
+1. Clone o repositório
 ```bash
-yarn
-# or
+git clone https://github.com/joykepler/ToDo-Frontend.git
+cd ToDo-Frontend
+```
+2.Instale as dependências
 npm install
-```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
+3.Configure o arquivo .env
+VITE_API_URL=http://localhost:8000/api
 
+4.Inicie o servidor de desenvolvimento
+npm run dev
 
-### Lint the files
-```bash
-yarn lint
-# or
-npm run lint
-```
-
-
-### Format the files
-```bash
-yarn format
-# or
-npm run format
-```
-
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
+## 🔗 Repositório Backend
+https://github.com/joykepler/ToDo-Backend
